@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is my life . 
 i want  to lead my life beautifully
 i am adding new line as user  "one".
+=======
+this is varshini
+this line is not being added by user "two".
+>>>>>>> 8cd0f71f83d7be511b4c2dc0af47646620a71ef5
